@@ -22,10 +22,6 @@ https://kommuriyamini451.github.io/SCT_WD_1/
 - **CSS3** - Flexbox, Grid, Media Queries, Animations
 - **JavaScript** - Smooth scroll, form validation, DOM manipulation
 
-## 📸 Screenshot
-![Landing Page Preview](./screenshot.png)
-> Add a screenshot of your site and name it `screenshot.png` in the repo
-
 ## 🚀 How to Run Locally
 1. Clone the repo:
    ```bash
